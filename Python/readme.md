@@ -1,5 +1,5 @@
 #
 ```
-https://isip.moe.edu.tw/wordpress/?p=1845
+https://www.w3schools.com/python/
 
 ```

@@ -1,4 +1,4 @@
-# Python實戰 CTF::使用Python編碼與解碼
+# Python實戰 CTF::使用Python編碼與解碼 
 ```
 學習目標1:基礎必教篇 ==Python 內建函數 與 標準函式庫的示範
 [1]使用Python程式與內建函數進行ASCII的編碼與解碼
